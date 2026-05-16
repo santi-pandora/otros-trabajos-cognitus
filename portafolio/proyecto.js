@@ -28,7 +28,7 @@ function asistencefundation(dayweek) {
 
  } 
  else {
-    console.log("no asustes ese dia")
+    console.log("no asistes este dia")
  }
 }
 main();
